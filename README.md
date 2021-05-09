@@ -119,7 +119,7 @@ make CORS requests, and no longer see the error message in the console. Huzzah!
 In the Network tab of the dev tools, you can also see the relevant headers that
 were added by the `rack-cors` gem:
 
-![cors headers](cors-headers.png)
+![cors headers](https://raw.githubusercontent.com/learn-co-curriculum/phase-4-cors/master/cors-headers.png)
 
 ## Conclusion
 
