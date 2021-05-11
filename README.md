@@ -131,6 +131,8 @@ that needs to handle requests coming from a JavaScript application.
 
 ## Resources
 
-[--minimal]: https://bigbinary.com/blog/rails-6-1-adds-minimal-option-support
+- [CORS Explained][cors mdn]
+- [The rack-cors Gem][rack-cors]
+
 [cors mdn]: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 [rack-cors]: https://github.com/cyu/rack-cors
